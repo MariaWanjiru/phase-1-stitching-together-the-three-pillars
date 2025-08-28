@@ -1,3 +1,4 @@
+// Ready for final submission
 // Select element by ID
 function selectElementById(id) {
   return document.getElementById(id);
